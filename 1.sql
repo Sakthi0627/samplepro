@@ -1,2 +1,3 @@
 select *
-  from employees;
+  from employees
+ where first_name = 'Lex';
